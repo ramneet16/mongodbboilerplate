@@ -13,13 +13,13 @@
   ],
   "maintainers": [
     {
-      "name": "Thanh Hai Mai",
-      "email": "thanhhaipmai@gmail.com"
+      "name": "Ramneet Singh Dua",
+      "email": "ramneetsinghdua.singhdua@gmail.com"
     } 
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:thanhhaimai/expressjs-boilerplate.git"
+    "url": "https://github.com/ramneet16/mongodbboilerplate/edit/master/package.json"
   },
   "engines": {
     "node": "~v0.6.7"
